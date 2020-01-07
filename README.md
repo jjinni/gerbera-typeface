@@ -1,2 +1,3 @@
-# gerbera
-Gerbera a new sans-serif that fuses geometric and organic elements (5 weights)
+# Gerbera
+<p>Gerbera is a new sans-serif with a distinct personality that fuses geometric and organic elements. It is at once hip and quaint, clear yet idiosyncratic, restrained but sensual. Its deliberately varied classical capital proportions and geometric structure are balanced by slightly reversed stress and pinched terminals on curved strokes. This versatile font comes in five weights and offers a variety of Open Type features, including small caps, alternate characters and punctuation, five sets of figures, and CE, Baltic, and Cyrillic support.</p>
+<p>Classification: sans serif, geometric, grotesk, groteque, humanist</p>
